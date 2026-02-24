@@ -5,7 +5,7 @@ This repository is the landing page for legacy university projects being convert
 ## Included MATLAB Repositories
 
 - [`matlab-multimaterial-airfoil-skin-test-data`](https://github.com/wplpbpnp/matlab-multimaterial-airfoil-skin-test-data) (NASA AMuBA-related multimaterial airfoil skin test datasets and MATLAB import/analysis scripts)
-- [`matlab-enae488p-compressible-flow`](https://github.com/wplpbpnp/matlab-enae488p-compressible-flow) (compressible flow coursework and project scripts)
+- [`matlab-enae488p-compressible-flow`](https://github.com/wplpbpnp/matlab-enae488p-compressible-flow) (ENAE488P hypersonic flow coursework and hypersonic caret waverider project scripts)
 - [`matlab-enae432-control-systems`](https://github.com/wplpbpnp/matlab-enae432-control-systems) (control systems problem sets and simulation files)
 - [`matlab-enae423-aeroelasticity-flutter`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter) (aeroelasticity homework and panel flutter analysis)
 - [`matlab-aerospace-coursework-archive`](https://github.com/wplpbpnp/matlab-aerospace-coursework-archive) (broader aerospace coursework archive)
@@ -13,7 +13,13 @@ This repository is the landing page for legacy university projects being convert
 
 ## Visual Highlights
 
-### ENAE488P Compressible Flow
+### AMuBA Multimaterial Airfoil Skin Test Data
+
+[`matlab-multimaterial-airfoil-skin-test-data`](https://github.com/wplpbpnp/matlab-multimaterial-airfoil-skin-test-data)
+
+![AMuBA airfoil skin test data preview](https://raw.githubusercontent.com/wplpbpnp/matlab-multimaterial-airfoil-skin-test-data/main/assets/amuba_airfoil_skin_force_displacement_preview.svg)
+
+### ENAE488P Hypersonic Flow (Caret Waverider Project)
 
 [`matlab-enae488p-compressible-flow`](https://github.com/wplpbpnp/matlab-enae488p-compressible-flow)
 
@@ -24,6 +30,12 @@ This repository is the landing page for legacy university projects being convert
 [`matlab-enae432-control-systems`](https://github.com/wplpbpnp/matlab-enae432-control-systems)
 
 ![ENAE432 bode plot](https://raw.githubusercontent.com/wplpbpnp/matlab-enae432-control-systems/main/bodeG.png)
+
+### ENAE423 Aeroelasticity and Flutter
+
+[`matlab-enae423-aeroelasticity-flutter`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter)
+
+![ENAE423 panel flutter preview](https://raw.githubusercontent.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter/main/assets/panel_flutter_preview.png)
 
 ### Aerospace Coursework Archive (Examples)
 
@@ -37,18 +49,18 @@ This repository is the landing page for legacy university projects being convert
 
 ![Math coursework archive example plot](https://raw.githubusercontent.com/wplpbpnp/matlab-math-coursework-archive/main/math461/html/project5.png)
 
-## Additional Highlights (Link-First)
+## Additional Highlights (Direct Links)
 
-- [`matlab-multimaterial-airfoil-skin-test-data`](https://github.com/wplpbpnp/matlab-multimaterial-airfoil-skin-test-data): dataset-centric repo (AMuBA multimaterial airfoil skin/shear test imports and analysis scripts)
-- [`matlab-enae423-aeroelasticity-flutter`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter): panel flutter analysis (`[panel_flutter.m](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter/blob/main/panel_flutter.m)`, [`panel_flutter.pdf`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter/blob/main/html/panel_flutter.pdf)`)
+- [`matlab-multimaterial-airfoil-skin-test-data`](https://github.com/wplpbpnp/matlab-multimaterial-airfoil-skin-test-data): AMuBA multimaterial airfoil skin/shear test imports and analysis scripts
+- [`matlab-enae423-aeroelasticity-flutter`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter): [`panel_flutter.m`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter/blob/main/panel_flutter.m) and [`panel_flutter.pdf`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter/blob/main/html/panel_flutter.pdf)
 
 ## Next README Improvements For This Repo
 
 - Short bio / context for the archive
 - Table of repositories with tags and dates
-- Add screenshots for the AMuBA dataset repo and ENAE423 flutter repo
+- Add a short bio/intro paragraph above the repo list
 - Notes on original course context and academic scope
 
 ## Status
 
-Initial staging completed. GitHub links are live and visual highlights have been added for image-backed repos.
+Initial staging completed. GitHub links are live and visual highlights are now included for all highlighted repos.
