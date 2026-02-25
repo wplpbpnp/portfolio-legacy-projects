@@ -52,18 +52,3 @@ The collection includes UMD aerospace/math coursework and a summer NASA AMuBA in
 [`matlab-math-coursework-archive`](https://github.com/wplpbpnp/matlab-math-coursework-archive)
 
 ![Math coursework archive example plot](https://raw.githubusercontent.com/wplpbpnp/matlab-math-coursework-archive/main/assets/math246_hw2_plot_preview.png)
-
-## Additional Highlights (Direct Links)
-
-- [`matlab-multimaterial-airfoil-skin-test-data`](https://github.com/wplpbpnp/matlab-multimaterial-airfoil-skin-test-data): AMuBA multimaterial airfoil skin/shear test imports and analysis scripts
-- [`matlab-enae423-aeroelasticity-flutter`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter): [`panel_flutter.m`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter/blob/main/panel_flutter.m) and [`panel_flutter.pdf`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter/blob/main/html/panel_flutter.pdf)
-
-## Notes
-
-- Course-based repos include short Testudo-derived course summaries and links in their READMEs.
-- The AMuBA repo is internship/research work (not a course assignment) and is labeled accordingly.
-- Public repos are curated from a legacy archive with scratch/duplicate files removed.
-
-## Status
-
-All repositories are live with README documentation, course context, and visual previews.
