@@ -27,31 +27,31 @@ The collection includes UMD aerospace/math coursework and a summer NASA AMuBA in
 
 [`matlab-enae488p-compressible-flow`](https://github.com/wplpbpnp/matlab-enae488p-compressible-flow)
 
-![ENAE488P caret waverider project preview](https://raw.githubusercontent.com/wplpbpnp/matlab-enae488p-compressible-flow/main/assets/final_project_caret_waverider_preview.png)
+![ENAE488P caret waverider project plot preview](https://raw.githubusercontent.com/wplpbpnp/matlab-enae488p-compressible-flow/main/assets/final_project_caret_waverider_plot_preview.png)
 
 ### ENAE432 Control Systems
 
 [`matlab-enae432-control-systems`](https://github.com/wplpbpnp/matlab-enae432-control-systems)
 
-![ENAE432 bode plot](https://raw.githubusercontent.com/wplpbpnp/matlab-enae432-control-systems/main/bodeG.png)
+![ENAE432 nichols plot](https://raw.githubusercontent.com/wplpbpnp/matlab-enae432-control-systems/main/nicholsL.png)
 
 ### ENAE423 Aeroelasticity and Flutter
 
 [`matlab-enae423-aeroelasticity-flutter`](https://github.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter)
 
-![ENAE423 panel flutter preview](https://raw.githubusercontent.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter/main/assets/panel_flutter_preview.png)
+![ENAE423 panel flutter plot preview](https://raw.githubusercontent.com/wplpbpnp/matlab-enae423-aeroelasticity-flutter/main/assets/panel_flutter_plot_preview.png)
 
 ### Aerospace Coursework Archive (Examples)
 
 [`matlab-aerospace-coursework-archive`](https://github.com/wplpbpnp/matlab-aerospace-coursework-archive)
 
-![Aerospace coursework archive example plot](https://raw.githubusercontent.com/wplpbpnp/matlab-aerospace-coursework-archive/main/enae283/html/a10_graphs.png)
+![Aerospace coursework archive example plot](https://raw.githubusercontent.com/wplpbpnp/matlab-aerospace-coursework-archive/main/assets/enae324_final_plot_preview.png)
 
 ### Math Coursework Archive (Examples)
 
 [`matlab-math-coursework-archive`](https://github.com/wplpbpnp/matlab-math-coursework-archive)
 
-![Math coursework archive example plot](https://raw.githubusercontent.com/wplpbpnp/matlab-math-coursework-archive/main/math461/html/project5.png)
+![Math coursework archive example plot](https://raw.githubusercontent.com/wplpbpnp/matlab-math-coursework-archive/main/assets/math246_hw2_plot_preview.png)
 
 ## Additional Highlights (Direct Links)
 
