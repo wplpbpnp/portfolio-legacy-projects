@@ -62,8 +62,8 @@ The collection includes UMD aerospace/math coursework and a summer NASA AMuBA in
 
 - Course-based repos include short Testudo-derived course summaries and links in their READMEs.
 - The AMuBA repo is internship/research work (not a course assignment) and is labeled accordingly.
-- Code was staged from a legacy archive with scratch/duplicate files removed in the public repo copies.
+- Public repos are curated from a legacy archive with scratch/duplicate files removed.
 
 ## Status
 
-Initial staging completed. All repos are live with README documentation, course context, and visual previews.
+All repositories are live with README documentation, course context, and visual previews.
