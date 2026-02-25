@@ -1,10 +1,10 @@
-# Legacy Projects Portfolio (Index Repo)
+# Legacy Projects Portfolio
 
 This repository is the landing page for legacy MATLAB work converted into GitHub-ready examples.
 
 The collection includes UMD aerospace/math coursework and a summer NASA AMuBA internship/research project. Repos are split by project/course area so each one has a clear scope, README, and artifacts.
 
-## Selected Repositories (Quick Scan)
+## Repositories
 
 | Repository | Focus | Representative Artifacts | Tags |
 |---|---|---|---|
